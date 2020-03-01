@@ -1,11 +1,11 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: inc0gnit0
+description: Welcome to my blog!
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://iic0gnit0.github.io" # the base hostname & protocol for your site
 
 pagination:
 
@@ -18,9 +18,9 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+faceboook: facebook
+twitter: iinc0gnit0
+github:  iinc0gnit0
 
 #Additional Pages
 about: about
@@ -32,7 +32,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-159306205-1"
 
 # Build settings
 markdown: kramdown
